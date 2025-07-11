@@ -1,0 +1,7 @@
+
+path: ./data
+train: images/train
+val: images/test
+
+nc: 4
+names: ['prohibitory', 'danger', 'mandatory', 'other']
